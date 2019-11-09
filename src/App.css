@@ -98,6 +98,7 @@ body {
   padding: 0 2.5rem 0 0.75rem;
   overflow: hidden;
   transform-origin: bottom;
+  user-select: none;
   transition: transform 0.5s cubic-bezier(0.55, 0, 0.1, 1);
 }
 .todo:after {
@@ -145,11 +146,9 @@ body {
   transform: scaleX(0);
   transition: transform 0.5s cubic-bezier(0.55, 0, 0.1, 1);
 }
-.todo.todo--completed {
-  .todo.todo--completed:after {
-    opacity: 1;
-    transform: scale(1);
-  }
+.todo.todo--completed:after {
+  opacity: 1;
+  transform: scale(1);
 }
 .todo.todo--completed .todo__content {
   opacity: 0.5;
