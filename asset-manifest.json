@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://varundevpro.github.io/todo-react/static/css/main.0f1947d0.chunk.css",
-    "main.js": "https://varundevpro.github.io/todo-react/static/js/main.c2de7473.chunk.js",
-    "main.js.map": "https://varundevpro.github.io/todo-react/static/js/main.c2de7473.chunk.js.map",
-    "runtime-main.js": "https://varundevpro.github.io/todo-react/static/js/runtime-main.c89145dc.js",
-    "runtime-main.js.map": "https://varundevpro.github.io/todo-react/static/js/runtime-main.c89145dc.js.map",
-    "static/js/2.86179fb5.chunk.js": "https://varundevpro.github.io/todo-react/static/js/2.86179fb5.chunk.js",
-    "static/js/2.86179fb5.chunk.js.map": "https://varundevpro.github.io/todo-react/static/js/2.86179fb5.chunk.js.map",
+    "main.css": "https://varundevpro.github.io/todo-react/static/css/main.56ad5b47.chunk.css",
+    "main.js": "https://varundevpro.github.io/todo-react/static/js/main.c551a78f.chunk.js",
+    "main.js.map": "https://varundevpro.github.io/todo-react/static/js/main.c551a78f.chunk.js.map",
+    "runtime-main.js": "https://varundevpro.github.io/todo-react/static/js/runtime-main.b41bbfa6.js",
+    "runtime-main.js.map": "https://varundevpro.github.io/todo-react/static/js/runtime-main.b41bbfa6.js.map",
+    "static/js/2.cec7c51a.chunk.js": "https://varundevpro.github.io/todo-react/static/js/2.cec7c51a.chunk.js",
+    "static/js/2.cec7c51a.chunk.js.map": "https://varundevpro.github.io/todo-react/static/js/2.cec7c51a.chunk.js.map",
     "index.html": "https://varundevpro.github.io/todo-react/index.html",
-    "precache-manifest.316bc965484403848e09c9dff46383b4.js": "https://varundevpro.github.io/todo-react/precache-manifest.316bc965484403848e09c9dff46383b4.js",
+    "precache-manifest.8b863ce94c78cb08ca45687e18526d3b.js": "https://varundevpro.github.io/todo-react/precache-manifest.8b863ce94c78cb08ca45687e18526d3b.js",
     "service-worker.js": "https://varundevpro.github.io/todo-react/service-worker.js",
-    "static/css/main.0f1947d0.chunk.css.map": "https://varundevpro.github.io/todo-react/static/css/main.0f1947d0.chunk.css.map"
+    "static/css/main.56ad5b47.chunk.css.map": "https://varundevpro.github.io/todo-react/static/css/main.56ad5b47.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c89145dc.js",
-    "static/js/2.86179fb5.chunk.js",
-    "static/css/main.0f1947d0.chunk.css",
-    "static/js/main.c2de7473.chunk.js"
+    "static/js/runtime-main.b41bbfa6.js",
+    "static/js/2.cec7c51a.chunk.js",
+    "static/css/main.56ad5b47.chunk.css",
+    "static/js/main.c551a78f.chunk.js"
   ]
 }
