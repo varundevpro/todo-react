@@ -2,6 +2,7 @@
   "name": "todo-react",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://varundevpro.github.io/todo-react",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
