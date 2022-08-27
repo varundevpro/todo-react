@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/todo-react/static/css/main.0f1947d0.chunk.css",
-    "main.js": "/todo-react/static/js/main.eecbc6bb.chunk.js",
-    "main.js.map": "/todo-react/static/js/main.eecbc6bb.chunk.js.map",
-    "runtime-main.js": "/todo-react/static/js/runtime-main.d4ff7c33.js",
-    "runtime-main.js.map": "/todo-react/static/js/runtime-main.d4ff7c33.js.map",
-    "static/js/2.b9d23216.chunk.js": "/todo-react/static/js/2.b9d23216.chunk.js",
-    "static/js/2.b9d23216.chunk.js.map": "/todo-react/static/js/2.b9d23216.chunk.js.map",
-    "index.html": "/todo-react/index.html",
-    "precache-manifest.f4ea051fc148fc26ad374019bd699584.js": "/todo-react/precache-manifest.f4ea051fc148fc26ad374019bd699584.js",
-    "service-worker.js": "/todo-react/service-worker.js",
-    "static/css/main.0f1947d0.chunk.css.map": "/todo-react/static/css/main.0f1947d0.chunk.css.map"
+    "main.css": "http://localhost:3000/static/css/main.896222aa.css",
+    "main.js": "http://localhost:3000/static/js/main.0415cce3.js",
+    "index.html": "http://localhost:3000/index.html",
+    "main.896222aa.css.map": "http://localhost:3000/static/css/main.896222aa.css.map",
+    "main.0415cce3.js.map": "http://localhost:3000/static/js/main.0415cce3.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4ff7c33.js",
-    "static/js/2.b9d23216.chunk.js",
-    "static/css/main.0f1947d0.chunk.css",
-    "static/js/main.eecbc6bb.chunk.js"
+    "static/css/main.896222aa.css",
+    "static/js/main.0415cce3.js"
   ]
 }
